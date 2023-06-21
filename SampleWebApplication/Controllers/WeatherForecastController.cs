@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SampleWebApplication.Models;
 
 namespace SampleWebApplication.Controllers
 {
